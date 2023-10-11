@@ -14,5 +14,8 @@ To effectively use Ingestor to its full potential, it should be available on any
 
 _Maybe there will also be a voice assistant, you can place in your room. So you only need to say "Hey Ingestor, \<your note to take\>"_
 
+## How to use Ingestor
+Ingestor is under development at the moment and you can't use it so far. The goal for Ingestor is to be self-hosted by who ever want's to do so. For anyone not wanting to self-host, there will also be a paid service.
+
 ## Help us with your ideas!
 If you have any idea on how to improve Ingestor, feel free to contact us or open a new issue. We are allways open for weird ideas :D
